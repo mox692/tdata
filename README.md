@@ -3,3 +3,7 @@
 ## Kind
 * hashmap
   * string-int
+* array
+  * int
+  * string
+  * interface
